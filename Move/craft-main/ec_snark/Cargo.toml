@@ -1,0 +1,15 @@
+[package]
+name = "ec_snark"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hex.workspace = true
+lazy_static.workspace = true
+strum.workspace = true
+num-traits.workspace = true
+rand.workspace = true
+rand_core.workspace = true
+pasta_curves.workspace = true

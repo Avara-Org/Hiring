@@ -1,0 +1,2 @@
+server_address = "0.0.0.0:3100"
+server_broadcast_channel_capacity = 16
